@@ -14,4 +14,4 @@ public class table{
             System.out.println(n+" X "+i+"="+n*i);
         }
     }
-}
+} 
